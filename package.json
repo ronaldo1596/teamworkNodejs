@@ -1,0 +1,32 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "description": "TeamWork NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Lugo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldo1596/teamworkNodejs.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "TeamWork",
+    "Javascript",
+    "NorthWest"
+  ],
+  "bugs": {
+    "url": "https://github.com/ronaldo1596/teamworkNodejs/issues"
+  },
+  "homepage": "https://github.com/ronaldo1596/teamworkNodejs#readme"
+}
